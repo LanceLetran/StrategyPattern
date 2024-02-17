@@ -19,3 +19,4 @@ B. AttackStrategy
 3. SwingSword
 
 # UML Class Diagram
+![UML Diagram - Letran](https://github.com/LanceLetran/StrategyPattern/assets/142746735/0280f91e-ce9c-4e0e-a6be-a35bea3c1d1b)
